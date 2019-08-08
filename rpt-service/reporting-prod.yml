@@ -4,5 +4,5 @@ report:
   border: 1
   page:
     color: white
-    size: A4
-duration: summer report-prd
+    size: A4 report-prod
+duration: summer report-prod

@@ -4,5 +4,5 @@ report:
   border: 2
   page:
     color: yellow
-    size: A4
-duration: all repor-dev
+    size: A4  report-dev
+duration: all report-dev
