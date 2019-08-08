@@ -3,4 +3,4 @@ search:
   perpage: 10
  canexport: true
  render: false
-duration: all
+duration: all search-dev
